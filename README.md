@@ -1,8 +1,5 @@
 
-<table border="1"> 
-        <a href="https://t.me/didar088">Telegram </a>
-        <a href="https://instagram.com/notdidar08">Instagram </a>
-</table>
+<table border="1"> </table>
 
 
 
