@@ -9,6 +9,7 @@
 
 
 ### Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=didar08&theme=2077)
 
 <!--
 **didar08/didar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
