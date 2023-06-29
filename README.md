@@ -11,10 +11,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=didar08&theme=2077)
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=marse11e&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="800px">
-<img alt="github-snake" src="github-user-contribution.svg" />
-</th>
-</table>
 
 
 
