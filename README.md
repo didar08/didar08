@@ -1,9 +1,4 @@
 
-<table border="1"></table>
-
-
-
-
 ### Hi there 👋
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=didar08&theme=2077)
 
