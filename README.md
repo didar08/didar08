@@ -1,5 +1,5 @@
 
-<table border="1"> </table>
+<table border="1"></table>
 
 
 
